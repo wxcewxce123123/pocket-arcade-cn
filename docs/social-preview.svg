@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640" role="img" aria-labelledby="title desc">
+  <title id="title">Pocket Arcade</title>
+  <desc id="desc">18 mobile mini games, mobile first and offline ready</desc>
+  <defs>
+    <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="3" cy="3" r="2" fill="#20201f" opacity=".12"/>
+    </pattern>
+  </defs>
+  <rect width="1280" height="640" fill="#f4efe6"/>
+  <rect width="1280" height="640" fill="url(#dots)"/>
+  <rect x="62" y="56" width="1156" height="528" rx="52" fill="#20201f"/>
+  <rect x="50" y="44" width="1156" height="528" rx="52" fill="#fffaf1" stroke="#20201f" stroke-width="5"/>
+
+  <g transform="translate(100 94)">
+    <rect width="92" height="92" rx="28" fill="#ff684d" stroke="#20201f" stroke-width="5"/>
+    <path d="M46 16 53 36.5 75 37.5 58 51 63.5 72 46 60 28.5 72 34 51 17 37.5 39 36.5Z" fill="#ffd84f" stroke="#20201f" stroke-width="4" stroke-linejoin="round"/>
+  </g>
+
+  <g font-family="Arial, Helvetica, sans-serif" fill="#20201f">
+    <text x="100" y="238" font-size="86" font-weight="900" letter-spacing="-5">POCKET</text>
+    <text x="96" y="327" font-size="108" font-weight="900" letter-spacing="-7">ARCADE</text>
+    <text x="102" y="374" font-size="22" font-weight="700" letter-spacing="4">PLAY A BRIGHT ROUND. ANYTIME.</text>
+  </g>
+
+  <g font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="800" fill="#20201f">
+    <g transform="translate(100 426)">
+      <rect width="178" height="50" rx="25" fill="#ffd84f" stroke="#20201f" stroke-width="3"/>
+      <text x="89" y="32" text-anchor="middle">18 MINI GAMES</text>
+    </g>
+    <g transform="translate(294 426)">
+      <rect width="178" height="50" rx="25" fill="#8eddb7" stroke="#20201f" stroke-width="3"/>
+      <text x="89" y="32" text-anchor="middle">MOBILE FIRST</text>
+    </g>
+    <g transform="translate(488 426)">
+      <rect width="178" height="50" rx="25" fill="#b58df4" stroke="#20201f" stroke-width="3"/>
+      <text x="89" y="32" text-anchor="middle">OFFLINE READY</text>
+    </g>
+    <text x="102" y="526" font-size="17" letter-spacing="1">wxcewxce123123.github.io/pocket-arcade-cn</text>
+  </g>
+
+  <g transform="translate(800 78)">
+    <rect x="12" y="14" width="300" height="446" rx="48" fill="#20201f"/>
+    <rect width="300" height="446" rx="48" fill="#f4efe6" stroke="#20201f" stroke-width="5"/>
+    <rect x="102" y="14" width="96" height="12" rx="6" fill="#20201f"/>
+    <text x="34" y="68" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="900" fill="#20201f">CHOOSE A GAME</text>
+    <g stroke="#20201f" stroke-width="4">
+      <rect x="28" y="94" width="112" height="128" rx="24" fill="#ff684d"/>
+      <rect x="160" y="94" width="112" height="128" rx="24" fill="#78c8f6"/>
+      <rect x="28" y="242" width="112" height="128" rx="24" fill="#ffd84f"/>
+      <rect x="160" y="242" width="112" height="128" rx="24" fill="#8eddb7"/>
+    </g>
+    <g fill="#20201f" font-family="Arial, Helvetica, sans-serif" font-weight="900" text-anchor="middle">
+      <text x="84" y="146" font-size="42">✦</text>
+      <text x="84" y="194" font-size="13">STAR DASH</text>
+      <path d="M216 127 232 160 216 193 200 160Z" fill="#fffaf1" stroke="#20201f" stroke-width="4"/>
+      <text x="216" y="210" font-size="13">SKY DRIFT</text>
+      <text x="84" y="302" font-size="38">2 4</text>
+      <text x="84" y="346" font-size="13">JELLY MERGE</text>
+      <circle cx="216" cy="300" r="30" fill="#b58df4" stroke="#20201f" stroke-width="4"/>
+      <text x="216" y="309" font-size="28">♪</text>
+      <text x="216" y="346" font-size="13">NEON ECHO</text>
+    </g>
+    <rect x="84" y="401" width="132" height="12" rx="6" fill="#20201f" opacity=".25"/>
+  </g>
+
+  <g fill="#ff684d" stroke="#20201f" stroke-width="3">
+    <path d="M1130 88 1138 108 1160 110 1143 124 1148 146 1130 134 1112 146 1117 124 1100 110 1122 108Z"/>
+    <circle cx="741" cy="112" r="11" fill="#78c8f6"/>
+    <circle cx="742" cy="519" r="18" fill="#ffd84f"/>
+  </g>
+</svg>

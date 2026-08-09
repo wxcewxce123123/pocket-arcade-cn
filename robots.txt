@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://wxcewxce123123.github.io/pocket-arcade-cn/sitemap.xml

@@ -1,0 +1,39 @@
+name: 玩法建议
+description: 提议新游戏、体验改进或无障碍功能
+title: "[Idea] "
+labels:
+  - enhancement
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: 想解决什么问题？
+      description: 描述使用场景，或现在体验中缺少的部分。
+    validations:
+      required: true
+  - type: textarea
+    id: idea
+    attributes:
+      label: 你的想法
+      description: 如果是新玩法，请写清核心规则、手机操作方式和单局时长。
+    validations:
+      required: true
+  - type: dropdown
+    id: area
+    attributes:
+      label: 类型
+      options:
+        - 新游戏
+        - 现有游戏改进
+        - 首页与导航
+        - 无障碍与兼容性
+        - 文档与社区
+    validations:
+      required: true
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: 提交前确认
+      options:
+        - label: 我已搜索现有 Issue，未发现相同建议。
+          required: true

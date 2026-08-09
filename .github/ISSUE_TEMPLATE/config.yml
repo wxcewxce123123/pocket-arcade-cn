@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 在线试玩
+    url: https://wxcewxce123123.github.io/pocket-arcade-cn/
+    about: 提交问题前，可以先确认线上版本是否仍能复现。
+  - name: 安全问题
+    url: https://github.com/wxcewxce123123/pocket-arcade-cn/security
+    about: 请勿在公开 Issue 中披露安全漏洞。
